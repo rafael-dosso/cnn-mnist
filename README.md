@@ -17,11 +17,6 @@ Este projeto utiliza uma Rede Neural Convolucional (CNN) para identificar dígit
     git clone https://github.com/seu_usuario/nome_do_projeto.git
     cd nome_do_projeto
     ```
-### Execução via Jupyter Notebook
-2. **Execute o notebook:**
-    ```bash
-    jupyter notebook cnn-mnist.ipynb
-    ```
 ### Execução local
 2. **Instale as dependências:**
     ```bash
@@ -30,6 +25,11 @@ Este projeto utiliza uma Rede Neural Convolucional (CNN) para identificar dígit
 3. **Execute o código:**
     ```bash
     python3 cnn-mnist.py
+    ```
+### Execução via Jupyter Notebook
+2. **Execute o notebook:**
+    ```bash
+    jupyter notebook cnn-mnist.ipynb
     ```
 ## Soluções e Resultados
 
