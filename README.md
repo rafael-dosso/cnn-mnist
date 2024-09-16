@@ -38,7 +38,8 @@ O modelo implementa duas camadas de convolução e de pooling. A primeira obtém
 A estrutura é a seguinte:
 ![](./structure.png)
 
-Os resultados do modelo podem ser visualizados após o treinamento. O modelo alcançõu uma precisão superior a 99% no conjundo de validação.
+### Precisão:
+Os resultados do modelo podem ser visualizados após o treinamento. O modelo alcançõu uma **precisão superior a 99%** no conjundo de validação.
 
 ## Referências
 
