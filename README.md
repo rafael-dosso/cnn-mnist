@@ -1,4 +1,4 @@
-# Projeto de Classificação de Dígitos com Rede Neural Convolucional
+# Classificação de Dígitos com Rede Neural Convolucional
 
 Este projeto utiliza uma Rede Neural Convolucional (CNN) para identificar dígitos manuscritos a partir do famoso conjunto de dados MNIST. O objetivo é treinar um modelo que possa classificar imagens de dígitos de 0 a 9 com alta precisão.
 
