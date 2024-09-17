@@ -43,7 +43,7 @@ Os resultados do modelo podem ser visualizados após o treinamento. O modelo alc
 
 ## Referências
 
-Baseado no segundo Lab do curso do MIT "Introduction to Deep Learning"
+Baseado no segundo exercício do curso "Introduction to Deep Learning" do MIT
 
 [Repositório do exercício](https://github.com/aamini/introtodeeplearning/tree/master/lab2)
 
